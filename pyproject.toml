@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "VoxelCreaturesGenerator"
+name = "voxel-creatures-generator"
 version = "1.0.0"
 description = "Generator that can create voxel creatures from a collection of body parts"
 authors = ["Raul C. Sîmpetru <raul.simpetru@fau.de>"]
