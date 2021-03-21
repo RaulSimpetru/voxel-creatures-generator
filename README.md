@@ -43,8 +43,15 @@ Each creature can be created in one `.vox` file (for an example see [this](extra
 
 <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/body_parts_color_chart.png" alt="alt text"/>
 
-To be able to use this color coding you can use the [special palette](extra/special_pal.png) for MagicaVoxel.
+To be able to use this color coding you can use this [special palette](extra/special_pal.png) for MagicaVoxel.
 
 After you have created new body parts you can then export them as `.ply` files by going to `export -> cubes`.  
 Then you just have to put the exported files in the input directory.
 
+## Examples
+Although the original data used for generation will not be provided, I hope that this examples can show you what 
+interesting stuff can be made with the generator.
+
+<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example1.png" alt="alt text"/>
+<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example2.png" alt="alt text"/>
+<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example3.png" alt="alt text"/>
