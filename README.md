@@ -52,6 +52,12 @@ Then you just have to put the exported files in the input directory.
 Although the original data used for generation will not be provided, I hope that this examples can show you what 
 interesting stuff can be made with the generator.
 
-<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example1.png" alt="alt text"/>
-<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example2.png" alt="alt text"/>
-<img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example3.png" alt="alt text"/>
+<a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example1.obj">
+  <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example1.png"/>
+</a>
+<a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example2.obj">
+  <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example2.png"/>
+</a>
+<a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example3.obj">
+  <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example3.png"/>
+</a>
