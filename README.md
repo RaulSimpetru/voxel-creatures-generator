@@ -55,9 +55,11 @@ interesting stuff can be made with the generator.
 <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example1.obj">
   <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example1.png"/>
 </a>
+
 <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example2.obj">
   <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example2.png"/>
 </a>
+
 <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/RaulSimpetru/voxel-creatures-generator/main/extra/docs/example3.obj">
   <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/example3.png"/>
 </a>
