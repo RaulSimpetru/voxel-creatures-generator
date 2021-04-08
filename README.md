@@ -39,7 +39,7 @@ The next time you run the script all the data will be auto-sorted for you and th
 
 For the generation of data [MagicaVoxel @ ephtracy](https://ephtracy.github.io/#ss-carousel_ss) is recommended. 
 
-Each creature can be created in one `.vox` file (for an example see [this](extra/example.vox)).  
+Each creature can be created in one `.vox` file (for an example see [this](extra/example.vox)). **Note that the red axis must always show towards you!**
 
 <img src="https://github.com/RaulSimpetru/voxel-creatures-generator/blob/main/extra/docs/body_parts_color_chart.png" alt="alt text"/>
 
